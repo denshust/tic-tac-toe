@@ -1,0 +1,16 @@
+{
+"companyName": "denshust",
+"productName": "tic-tac-evolve",
+"productVersion": "0.1",
+"dataUrl": "tic-tac-toe_w.data.unityweb",
+"wasmCodeUrl": "tic-tac-toe_w.wasm.code.unityweb",
+"wasmFrameworkUrl": "tic-tac-toe_w.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
